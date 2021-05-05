@@ -8,7 +8,7 @@ Performance Testing using Jmeter and LoadRunner
 <br/>
 <br/>
 # Results of Validation against SLAs:
-![Image of Yaktocat](https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/JMeter_Assignment/result.PNG)
+![Image of Y](https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/JMeter_Assignment/result.PNG)
 
 <br/>
 <br/>
