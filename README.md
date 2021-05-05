@@ -3,7 +3,10 @@ Performance Testing using Jmeter and LoadRunner
 <br/>
 # Jmeter
 # Aggregate Report:
-![](https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/JMeter_Assignment/aggregate%20report.PNG)
+<p align="center">
+  <img src=https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/JMeter_Assignment/aggregate%20report.PNG width="350">
+
+</p>
 
 <br/>
 <br/>
