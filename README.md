@@ -5,13 +5,15 @@ Performance Testing using Jmeter and LoadRunner
 # Aggregate Report:
 <p align="center">
   <img src=https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/JMeter_Assignment/aggregate%20report.PNG >
-
 </p>
 
 <br/>
 <br/>
 # Results of Validation against SLAs:
-![](https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/JMeter_Assignment/result.PNG?raw=true)
+<p align="center">
+  <img src=https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/JMeter_Assignment/result.PNG>
+</p>
+
 
 <br/>
 <br/>
