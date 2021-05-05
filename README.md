@@ -9,7 +9,7 @@ Performance Testing using Jmeter and LoadRunner
 
 <br/>
 <br/>
-# Results of Validation against SLAs:
+- Results of Validation against SLAs:
 <br/>
 <p align="center">
   <img src=https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/JMeter_Assignment/result.PNG>
@@ -18,11 +18,11 @@ Performance Testing using Jmeter and LoadRunner
 
 <br/>
 <br/>
-# Load Profiling:
+- Load Profiling:
 <br/>
-# First Load:
+- First Load:
 <br/>
-# Use JMeter to generate the following Load Profile having two spikes:
+- Use JMeter to generate the following Load Profile having two spikes:
 <br/>
 <p align="center">
   <img src=https://github.com/Mariumashraf/PerformanceTesting/blob/main/automation%20practice%20project%20JMeter/twospikes.PNG>
@@ -30,8 +30,10 @@ Performance Testing using Jmeter and LoadRunner
 
 <br/>
 <br/>
-# Second Load:
-# Use JMeter to generate the following Load Profile:
+- Second Load:
+<br/>
+- Use JMeter to generate the following Load Profile:
+<br/>
 - Ramping up 100 users at a pace 1 user/second and ramp down with an exit rate of 1 user/second.
 <br/>
 <p align="center">
@@ -39,8 +41,9 @@ Performance Testing using Jmeter and LoadRunner
 </p>
 <br/>
 <br/>
-# Loadrunner
-# Spike testing by Loadrunner:
+- Loadrunner
+<br/>
+- Spike testing by Loadrunner:
 <br/>
 <p align="center">
   <img src=https://github.com/Mariumashraf/PerformanceTesting/blob/main/flight%20reservation%20project%20loadRunner/Spike-MariamAshraf.PNG>
